@@ -1,5 +1,9 @@
 ### Hola, mi nombre es Sebastián Valencia 👋
 
+
+Soy Desarrollador Frontend e Ingeniero Electrónico, apasionado por la tecnología, enfocado en React , marco de trabajo Scrum y manejo de versiones con GitHub.
+
+
 <!--
 **sevalenciagr/sevalenciagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
