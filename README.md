@@ -1,20 +1,46 @@
-### Hola, mi nombre es Sebastián Valencia 👋
+
+### (sevalenciagr) 👋💻
+# **¿QUIÉN SOY?**
+Desarrollador Frontend e Ingeniero Electrónico, apasionado por la tecnología, enfocado en React.
+
+- 🔭 En estos momentos estoy en búsqueda de continuar mi desarrollo profesional, me ilusiona un proyecto en el que pueda aportar valor diferencial, dispuesto a aprender y dar lo mejor de mi.
+- 🌱 Estoy aprendiendo constantemente nuevas tecnologías y frameworks.
+- 💡 Me encanta explorar soluciones innovadoras y creativas para los desafíos técnicos.
+- 💬 Puedes contactarme para discutir colaboraciones, oportunidades laborales o simplemente para decir hola.
+  
 
 
-Soy Desarrollador Frontend e Ingeniero Electrónico, apasionado por la tecnología, enfocado en React , marco de trabajo Scrum y manejo de versiones con GitHub.
+No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tienes alguna pregunta o sugerencia, estaré encantado de escucharte.
 
 
-<!--
-**sevalenciagr/sevalenciagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Gracias por visitar mi perfil! 😊
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Escríbeme! ☕
+
+[![Gmail](https://img.shields.io/badge/Gmail-Sebastian_Valencia-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:sevalenciagr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Valencia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sebastian-valencia-grajales-/)
+
+
+# Tecnologías, Lenguajes y Herramientas
+
+
+  ![HTML 5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
+  ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=black&labelColor=#3178C6)
+  
+  ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
+  ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
+  
+
+  ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
+  
+
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ 
+
+## **Formación Académica**
+- **Ingeniero Electrónico** - UNAL
+- **Tecnólogo en Sistemas y Computación** - ITEC
