@@ -1,22 +1,16 @@
 ### (sevalenciagr) 👋💻
 ![bannerweb](https://github.com/sevalenciagr/sevalenciagr/assets/88304046/8394a02a-d207-42a9-914a-8842dc7946a8)
+
 # **¿QUIÉN SOY?**
+
 Desarrollador Frontend e Ingeniero Electrónico, apasionado por la tecnología, enfocado en React.
 
 - 🔭 En estos momentos estoy en búsqueda de continuar mi desarrollo profesional, me ilusiona un proyecto en el que pueda aportar valor diferencial, dispuesto a aprender y dar lo mejor de mi.
 - 🌱 Estoy aprendiendo constantemente nuevas tecnologías y frameworks.
-- 💡 Me encanta explorar soluciones innovadoras y creativas para los desafíos técnicos.
-- 💬 Puedes contactarme para discutir colaboraciones, oportunidades laborales o simplemente para decir hola.
-  
+- 💡 Me enfoco principalmente en React, bajo metodología de trabajo ágil Scrum.
+- 💬 Puedes contactarme para discutir colaboraciones y oportunidades laborales.
 
 
-No dudes en explorar mis repositorios para ver algunos de mis proyectos! Si tienes alguna pregunta o sugerencia, estaré encantado de escucharte.
-
-
-¡Gracias por visitar mi perfil! 😊
-
-
-¡Escríbeme! ☕
 
 [![Gmail](https://img.shields.io/badge/Gmail-Sebastian_Valencia-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:sevalenciagr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Valencia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sebastian-valencia-grajales-/)
