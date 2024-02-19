@@ -3,11 +3,11 @@
 
 # **¿QUIÉN SOY?**
 
-Desarrollador Frontend e Ingeniero Electrónico, apasionado por la tecnología, enfocado en React.
+Desarrollador Frontend e Ingeniero Electrónico, apasionado por la tecnología, enfocado en Angular y React.
 
 - 🔭 En estos momentos estoy en búsqueda de continuar mi desarrollo profesional, me ilusiona un proyecto en el que pueda aportar valor diferencial, dispuesto a aprender y dar lo mejor de mi.
 - 🌱 Estoy aprendiendo constantemente nuevas tecnologías y frameworks.
-- 💡 Me enfoco principalmente en React, bajo metodología de trabajo ágil Scrum.
+- 💡 Me enfoco principalmente en Angular y React, bajo metodología de trabajo ágil Scrum.
 - 💬 Puedes contactarme para discutir colaboraciones y oportunidades laborales.
 
 
@@ -28,7 +28,7 @@ Desarrollador Frontend e Ingeniero Electrónico, apasionado por la tecnología, 
   ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
   ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
   
-
+  ![Angular](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white&labelColor=red)
   ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
   
 
