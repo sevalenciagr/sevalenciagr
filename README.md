@@ -27,7 +27,6 @@ Ingeniero y Desarrollador enfocado en convertir diseños complejos de Figma en e
   ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=black&labelColor=#3178C6)
   
-  ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
   ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
 
