@@ -3,11 +3,14 @@
 
 # **¿QUIÉN SOY?**
 
-Desarrollador Frontend e Ingeniero Electrónico, apasionado por la tecnología, enfocado en Angular y React.
+Ingeniero Electrónico | WordPress Developer
 
-- 🔭 En estos momentos estoy en búsqueda de continuar mi desarrollo profesional, me ilusiona un proyecto en el que pueda aportar valor diferencial, dispuesto a aprender y dar lo mejor de mi.
+Ingeniero y Desarrollador enfocado en convertir diseños complejos de Figma en ecosistemas web de alto rendimiento. Mi enfoque combina la precisión de la ingeniería con el desarrollo avanzado en WordPress, especializándome en la creación de sitios escalables y eCommerce optimizados.
+
+- 🛠️ Stack Técnico: Bricks Builder y Elementor Pro, con sólida capacidad de personalización mediante PHP y CSS avanzado para romper las limitaciones de los constructores visuales.
 - 🌱 Estoy aprendiendo constantemente nuevas tecnologías y frameworks.
-- 💡 Me enfoco principalmente en Angular y React, bajo metodología de trabajo ágil Scrum.
+- ⚡ Rendimiento: Especialista en optimización de velocidad de carga (WPO) y Core Web Vitals, asegurando experiencias de usuario fluidas.
+- ⚙️ Metodología: Flujos de trabajo ágiles bajo SCRUM, garantizando entregas incrementales y comunicación transparente.
 - 💬 Puedes contactarme para discutir colaboraciones y oportunidades laborales.
 
 
