@@ -27,7 +27,8 @@ Desarrollador Frontend e Ingeniero Electrónico, apasionado por la tecnología, 
   ![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
   ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
-  
+
+  ![WordPress](https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=WordPress&logoColor=white)
   ![Angular](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white&labelColor=red)
   ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
   
